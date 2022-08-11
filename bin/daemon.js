@@ -76,7 +76,8 @@ async function main () {
     externalSecretEvents,
     logger,
     pollerFactory,
-    instanceId
+    instanceId,
+    metrics
   })
 
   const metricsServer = new MetricsServer({
