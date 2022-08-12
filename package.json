@@ -46,7 +46,7 @@
     "make-promises-safe": "^5.1.0",
     "node-vault": "^0.9.18",
     "pino": "^7.0.5",
-    "prom-client": "^12.0.0",
+    "prom-client": "^13.1.0",
     "proxy-agent": "^5.0.0"
   },
   "devDependencies": {
